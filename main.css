@@ -1,0 +1,88 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+    margin-left: 250px;
+}
+
+.block {
+    height: 60px;
+    width: 100%;
+    border-bottom: 1px solid #007bff;
+    padding-bottom: 3px;
+}
+
+.text1 {
+    vertical-align: 25px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    padding-left: 345px;
+    padding-right: 25px;
+    text-decoration: none;
+
+}
+
+.text {
+    vertical-align: 25px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.text1:hover {
+    vertical-align: 25px;
+    text-transform: uppercase;
+    color: orange;
+    font-weight: bold;
+    padding-left: 345px;
+    padding-right: 25px;
+    text-decoration: none;
+
+}
+
+.text:hover {
+    vertical-align: 25px;
+    text-transform: uppercase;
+    color: orange;
+    font-weight: bold;
+    padding: 10px;
+    text-decoration: none;
+
+}
+
+.contact {
+    vertical-align: 25px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    text-decoration: none;
+    padding-left: 30px;
+}
+
+#phone {
+    padding-left: 250px;
+    vertical-align: 7px;
+}
+
+.front-screen {
+    width: 790px;
+    height: 500px;
+    padding-left: 890px;
+    padding-top: 65px;
+}
+
+#front-text {
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 170px;
+}
+
+
